@@ -1,0 +1,18 @@
+[project]
+name = "quadric_solver_rakipp"
+version = "0.0.1"
+authors = [
+  { name="Rasmus", email="author@example.com" },
+]
+description = "A small package for homework 1. Python advanged"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/OCodingIsFunO/quadratic_solver/tree/main"
+Issues = "https://github.com/OCodingIsFunO/quadratic_solver/tree/main/issues"
